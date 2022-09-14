@@ -3,3 +3,4 @@ Latest version of Dungeon Addons changed the command to "/DA" to open the gui, a
 -added  reworked creeper beam solver
 -reworked advanced water board solver
 -added option to bind ghost block key to anything on keyboard in minecraft options
+-added wall hopper keybind similar to ghostblocks
